@@ -3,5 +3,5 @@
 using namespace std;
 
 int main () {
-  cout << "Hello, GDG" << endl;
+  cout << "Hello, GDG-2019" << endl;
 }
